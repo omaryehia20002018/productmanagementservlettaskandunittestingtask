@@ -1,0 +1,6 @@
+org\example\store\CalculatorTest.class
+org\example\store\MockitoTest.class
+org\example\store\StoreMockitoTest.class
+org\example\account\AccountManagerTest.class
+org\example\store\StoreTest.class
+org\example\store\StoreTest$AlwaysReturnSuccessAccountManager.class
